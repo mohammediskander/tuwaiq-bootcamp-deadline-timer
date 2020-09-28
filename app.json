@@ -1,0 +1,12 @@
+{
+  "name": "tuwaitDeadline",
+  "displayName": "tuwaitDeadline",
+  "expo": {
+    "name": "tuwaitDeadline",
+    "slug": "tuwaitDeadline",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
